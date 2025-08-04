@@ -8,8 +8,8 @@ include windows.inc
 
 ; - DATA SECTION ─
 .data
-    msg db "Hello from MASM 32-bit!", 0
-    cap db "Hello", 0
+    msg db "Hello, World!", 0
+    cap db "MASM", 0
 
 ; - CODE SECTION -
 .code
