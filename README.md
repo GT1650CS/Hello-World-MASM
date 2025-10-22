@@ -1,6 +1,6 @@
 # Hello, World — 32-bit x86 Assembly (MASM)
 
-A simple "Hello, World" program written in 32-bit x86 assembly language using MASM and the Win32 API.
+A simple "Hello, World" program written in 32-bit x86 (i386/80386) assembly language using MASM and the Win32 API.
 
 ## License
 
